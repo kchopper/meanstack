@@ -1,0 +1,31 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "MEAN stack blog tut",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kchopper/meanstack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "anngular2",
+    "nodejs",
+    "express"
+  ],
+  "author": "chopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchopper/meanstack/issues"
+  },
+  "homepage": "https://github.com/kchopper/meanstack#readme",
+  "dependencies": {
+    "@angular/cli": "^1.2.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
